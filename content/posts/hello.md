@@ -6,6 +6,8 @@ draft: false
 
 # Hello, World!
 
+Well, let us begin with a _customary_ program that simply prints a welcome message!
+
 A simple program in C:
 
 ```c
