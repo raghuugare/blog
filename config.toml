@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Biscuits in Tea...!"
 theme = "minimal"
 disqusShortname = "raghu_ugare"# delete this to disable disqus comments
-googleAnalytics = ""
+googleAnalytics = "UA-58142785-1"
 
 [params]
     author = "Raghu Ugare"
