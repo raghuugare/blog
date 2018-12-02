@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About this blog
-permalink: /intro/
 comments: true
 ---
 
 ## Hello! Tea, anyone ? &#9786;
 
-## ![icon_kettle]({{site.url}}/assets/icons/rags_icon_128_by_128_kettle.png) ---> ![icon_cup]({{site.url}}/assets/icons/rags_icon_128_by_128_cup.png)
+## ![icon_kettle](/icons/rags_icon_128_by_128_kettle.png) ---> ![icon_cup](/icons/rags_icon_128_by_128_cup.png)
 
 Well, well, well!
 
@@ -42,17 +41,17 @@ Just a tiny _cup o' tea_ makes me
 
 Well, when I am in [India][link_India]{:target="_blank"}---both in my native village as well as in [Bangalore][link_bangalore]{:target="_blank"}, it is usually hot tea(with milk) laced with aromatic _[Lemon-Grass][link_lemon_grass]{:target="_blank"},_ accompanied by _melt-in-the-mouth_ goodness of **[Parle-G][link_parle_g]{:target="_blank"}** biscuits! &hearts; :)
 
-![image_parle_g]({{site.url}}/assets/images/parle_g_in_tea.jpg)
+![image_parle_g](/images/parle_g_in_tea.jpg)
 
 And when I was in the UK, thanks to my loving friends, it was tea with the classic **[Mc-Vities][link_mc_vities]{:target="_blank"}** Digestives:
 
-![image_mc_vities]({{site.url}}/assets/images/mc_vities_in_tea.jpg)
+![image_mc_vities](/images/mc_vities_in_tea.jpg)
 
 (the above image is courtesy _The Telegraph, UK,_ in a [recent story][link_telegraph_uk_biscuits]{:target="_blank"})
 
 ## But, it's not just about Biscuits and Tea!
 
-## ![icon_cup]({{site.url}}/assets/icons/rags_icon_128_by_128_cup.png) + ![icon_computer]({{site.url}}/assets/icons/rags_icon_128_by_128_computer.png) + ![icon_ink_pen]({{site.url}}/assets/icons/rags_icon_128_by_128_ink_pen.png) = ![icon_smile]({{site.url}}/assets/icons/rags_icon_128_by_128_smile.png)
+## ![icon_cup](/icons/rags_icon_128_by_128_cup.png) + ![icon_computer](/icons/rags_icon_128_by_128_computer.png) + ![icon_ink_pen](/icons/rags_icon_128_by_128_ink_pen.png) = ![icon_smile](/icons/rags_icon_128_by_128_smile.png)
 
 Through this site,
 
@@ -94,7 +93,7 @@ Have a wonder-filled time with your dear ones!
 
 **Love & Best Wishes,**
 
-![image_rags_now]({{site.url}}/assets/images/rags_now_small.png)
+![image_rags_now](/assets/images/rags_now_small.png)
 
 Raghu Ugaré
 
