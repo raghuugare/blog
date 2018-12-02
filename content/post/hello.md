@@ -1,7 +1,7 @@
 ---
 title: "Hello, World! :-) "
 date: 2018-11-25T21:43:18+05:30
-draft: true
+draft: false
 ---
 
 # Hello, World!
@@ -10,14 +10,7 @@ Well, let us begin with a _customary_ program that simply prints a welcome messa
 
 A simple program in C:
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf ("Hello, World!");
-    return 0;
-}
-```
+{{< gist raghuugare f52477fb3878ffbef8cf54d0a288422a>}}
 
 ---
 

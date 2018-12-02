@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Test"
 date:   2014-12-25 12:20:10
-categories: programming
 draft: true
 
 ---
