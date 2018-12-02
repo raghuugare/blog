@@ -6,7 +6,6 @@ disqusShortname = "raghu-ugare-github"# delete this to disable disqus comments
 googleAnalytics = "UA-58142785-1"
 enableRobotsTXT = false
 enableEmoji = true
-staticDir = ["static"]
 
 [params]
     author = "Raghu Ugare"
