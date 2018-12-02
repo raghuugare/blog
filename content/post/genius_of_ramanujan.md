@@ -29,7 +29,7 @@ Here, we consider a few samples of his work that are accessible _(and hence insp
 
 While in early high-school, the math teacher called up little Ramanujan and gave him the following pair of equations to solve:
 
-![simultaenous_equations]({{site.url}}/assets/images/ramanujan/simultaneous_equations.jpg)
+![simultaenous_equations](/images/ramanujan/simultaneous_equations.jpg)
 
 ##### **Fig. 1.** The simple-looking problem posed to young Ramanujan in school.
 
@@ -49,7 +49,7 @@ There was this simple equation(see Fig. 2. above) which Ramanujan solved, provid
 
 ### The strange nested radical
 
-![nested_radical]({{site.url}}/assets/images/ramanujan/nested_radical.png)
+![nested_radical](/images/ramanujan/nested_radical.png)
 
 ##### **Fig. 3.** The strange, infinitely nested expression/radical whose value Ramanujan computed to be equal to 3 (Image by [@raghu_ugare][link_me_twitter]{:target="_blank"} using [Mathematica][link_Mathematica]{:target="_blank"})
 
@@ -62,7 +62,7 @@ Then, there was a question as to what the infinitely nested expression shown abo
 
 ### The astonishing Prime-product ratio
 
-![prime_product_ratio_demo]({{site.url}}/assets/images/ramanujan/prime_product_ratio.png)
+![prime_product_ratio_demo](/images/ramanujan/prime_product_ratio.png)
 
 ##### **Fig. 4.** The amazing [Prime-product ratio of Ramanujan][link_prime_product_ratio_demo]{:target="_blank"} of Ramanujan (Visualisation by [@raghu_ugare][link_me_twitter]{:target="_blank"} using [Mathematica][link_Mathematica]{:target="_blank"})
 
@@ -88,7 +88,7 @@ Indeed, it would be fitting to end this tiny _‘peek’_ into the beautiful min
 >
 > :~ **Srinivasa Ramanujan**
 
-![s_ramanujan]({{site.url}}/assets/images/ramanujan/s_ramanujan.jpg)
+![s_ramanujan](/images/ramanujan/s_ramanujan.jpg)
 
 ##### **Fig. 5.** Srinivasa Ramanujan(1887-1920)
 
