@@ -1,5 +1,6 @@
 ---
 layout: page
+date: 2014-09-24
 title: About this blog/me
 ---
 
