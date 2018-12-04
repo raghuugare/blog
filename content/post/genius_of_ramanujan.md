@@ -9,7 +9,7 @@ draft: false
 
 ### A glimpse of the great Indian mathe-magician’s work...
 
-History has seldom seen a person who was so passionate, unorthodox, as well as gifted in a field, as was [Srinivasa Ramanujan][link_Ramanujan]{:target="_blank"}, the self-taught Indian genius, who made several startling discoveries in the realm of Mathematics.
+History has seldom seen a person who was so passionate, unorthodox, as well as gifted in a field, as was [Srinivasa Ramanujan][link_Ramanujan], the self-taught Indian genius, who made several startling discoveries in the realm of Mathematics.
 
 Despite abject poverty and lack of formal training and encouragement, Ramanujan’s love for numbers never waned. And thanks to a chance encounter and ensuing collaboration with [G.H.Hardy][link_G_H_Hardy] of Cambridge, one of the most eminent mathematicians of the world, his hidden genius came to light.
 
@@ -33,7 +33,7 @@ While in early high-school, the math teacher called up little Ramanujan and gave
 
 ##### **Fig. 1.** The simple-looking problem posed to young Ramanujan in school.
 
-The solution for this pair of equations is quite obvious \$ \Rightarrow (x = 9, y = 4) \$  but is tricky to arrive at (**If you disagree, please go ahead; give it a try!**). And it is said that Ramanujan came up with the solution in a jiffy, showing early signs of his prodigious gifted.
+The solution for this pair of equations is quite obvious \\( \Rightarrow (x = 9, y = 4) \\)  but is tricky to arrive at (**If you disagree, please go ahead; give it a try!**). And it is said that Ramanujan came up with the solution in a jiffy, showing early signs of his prodigious gifted.
 
 ---
 
