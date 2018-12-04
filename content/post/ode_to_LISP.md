@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Ode to LISP &hearts; "
+title:  "Ode to LISP <3 ! "
 date:   2014-12-16 20:32:14
 categories: LISP
 comments: true
@@ -21,7 +21,7 @@ First, I made sure I had the following things sorted out:
 
 + Choosing a 'dialect' of LISP to learn. [Common LISP][link_Common_LISP] & [Scheme][link_Scheme] are the 2 most popular & enduring ones out there. I chose Common LISP for now (though I love Scheme too!).
 + Install an implementation of ANSI compliant Common LISP. I went with the free, open-source _Steel Bank Common LISP (SBCL)_ which you can obtain [here][link_SBCL].
-+ One of my favourite editors ---[Emacs][link_EMACS]{:target="_blank"}---installed version 24.4 (the latest stable version, as of writing this).
++ One of my favourite editors ---[Emacs][link_EMACS]---installed version 24.4 (the latest stable version, as of writing this).
 + Lastly, installed the must-have [SLIME][slime_id] mode package in Emacs that allows us to bring up the 'top-level' REPL prompt within Emacs for my LISP experiments!
 
 And soon, I obtained my first "Hello World" by typing and 'evaulating' the following function at the REPL prompt:
