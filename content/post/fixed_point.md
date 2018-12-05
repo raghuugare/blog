@@ -27,43 +27,19 @@ Hat-tip to both! &hearts; :-)
 
 ## Over to the code...
 
-``` scheme
+---
 
-;; Fixed point of a function 'f' about a point 'start'...
-;;
-;; Author: Raghu Ugaré
-;; Courtesy: the great teachers of SICP! <3 :)
-;; ------------------------------------------------------
+{{< gist raghuugare a5a70ee8757a11c0ebb864a73365f129 >}}
 
-(define (fixed-point f start)
-  ;; t = tolerance, which determines the maximum permissible error in our calculation
-  (define t 0.000001)
-
-  (define (iter old new)
-    (if (close-enough? old new)
-        new
-        (iter new (f new))))
-
-  (define (close-enough? old new)
-    (< (abs (- old new)) t))
-
-  (iter start (f start)))
-
-```
+---
 
 And then I tested it with the following calls to my `fixed-point` function:
 
-``` scheme
+---
 
-;; ================================================
-;; Some tests below for our Fixed-point function...
-;; ================================================
+{{< gist raghuugare 92d75b517a8465410e27871102d6b284 >}}
 
-(fixed-point cos 0) ;; Gives 0.7390855263619245
-(fixed-point sin 0) ;; Gives 0
-(fixed-point sin 1) ;; Gives 0.018169909847253
-
-```
+---
 
 ## The point?
 
