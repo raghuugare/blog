@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A small point about 'Fixed Point'..."
+title:  "A small point about Fixed Point..."
 date:   2015-09-17 12:21:21
 categories: programming
 draft: false
@@ -23,7 +23,7 @@ The program I wrote JUST WORKED the first time itself!
 
 Truly a testament to great teaching, and also to a great programming language (LISP that is--Scheme being a clean lit'l dialect of it :-) ). 
 
-Hat-tip to both! :hearts: :-)
+Hat-tip to both! :hearts: :blush:
 
 ### Over to the code...
 
@@ -47,9 +47,9 @@ Well, in the end, especially on seeing the different values in case of the \\( s
 
 Which reminds me of the saying:
 
->  &#10077; The ONLY constant in Life, is CHANGE! &#10078;
+>  &#10077; The ONLY constant in Life, is CHANGE! &#10078; :blush:
 
-Happy Learning & Exploring with SICP ! :~)
+**Happy Learning & Exploring with SICP ! :~)**
 
 [link_scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language)
 [link_fixed_point_definition]: https://en.wikipedia.org/wiki/Fixed_point_(mathematics)
