@@ -1,9 +1,9 @@
-baseURL = "https://www.biscuitsintea.com"
+baseURL = "https://raghuugare.github.io"
 languageCode = "en-us"
 title = "Biscuits in Tea...!"
 theme = "minimal"
 disqusShortname = "raghu-ugare-github"# delete this to disable disqus comments
-googleAnalytics = "UA-58142785-1"
+# googleAnalytics = "UA-58142785-1"
 enableRobotsTXT = false
 enableEmoji = true
 
