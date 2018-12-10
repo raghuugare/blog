@@ -9,19 +9,19 @@ draft: false
 
 ### Fixed-point ?
 
-The [fixed-point of a function][link_fixed_point_definition] \\(f(x)\\) is a value \\(x\\) such that the equation \\(f(x) = x\\) is true. 
+The [fixed-point of a function][link_fixed_point_definition] \\(f(x)\\) is a value \\(x\\) such that the equation \\(f(x) = x\\) is true.
 
-For example, \\(0\\) is a fixed-point of the familiar trigonometric function \\(sin\\), since \\(sin(0)=0\\). 
+For example, \\(0\\) is a fixed-point of the familiar trigonometric function \\(sin\\), since \\(sin(0)=0\\).
 
-Starting with this simple definition, I was shown some amazing piece of programming by [Prof. Gerald Jay Sussman][link_prof_Sussman] in the legendary [SICP][link_SICP] course (`lecture-2A` to be specific). 
+Starting with this simple definition, I was shown some amazing piece of programming by [Prof. Gerald Jay Sussman][link_prof_Sussman] in the legendary [SICP][link_SICP] course (`lecture-2A` to be specific).
 
-Inspired by the lecture, I quickly scribbled the following piece of code _verbatim_ in my [Scheme][link_scheme] environment. 
+Inspired by the lecture, I quickly scribbled the following piece of code _verbatim_ in my [Scheme][link_scheme] environment.
 
 And **lo & behold!**
 
-The program I wrote JUST WORKED the first time itself! 
+The program I wrote JUST WORKED the first time itself!
 
-Truly a testament to great teaching, and also to a great programming language (LISP that is--Scheme being a clean lit'l dialect of it :-) ). 
+Truly a testament to great teaching, and also to a great programming language (LISP that is--Scheme being a clean lit'l dialect of it :-) ).
 
 Hat-tip to both! :hearts: :blush:
 
