@@ -82,7 +82,7 @@ LISP uses this cons-cell concept to represent lists. For more information on con
 
 Good observation! You will understand this when you learn the basics of LISP.
 
-+ LISP denotes the boolean value of "true" by the symbol `T`, and uses `NIL` for "false". To make it clear, No, LISP does **not** use `F` for "false", as one expect!
++ LISP denotes the boolean value of "true" by the symbol `T`, and uses `NIL` for "false". To make it clear, No, LISP does **not** use `F` for "false", as one might expect!
 + Note that `NIL` is also used to represent an empty list i.e., `()`. Thus, the expression `(equalp NIL ())` evaluates to `T` (= true)
 
 ---
