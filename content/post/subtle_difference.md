@@ -8,7 +8,7 @@ draft: true
 
 ---
 
-I recently began my long-awaited journey(or a _pilgrimage_ to be honest!) towards the wonderful 'land' of [LISP][link_LISP]{:target="_blank"}. And along the path, I started understanding the so-called **predicates**.[^1]
+I recently began my long-awaited journey(or a _pilgrimage_ to be honest!) towards the wonderful 'land' of [LISP][link_LISP]. And along the path, I started understanding the so-called **predicates**.[^1]
 
 
 [^1]: Predicates (in LISP) are nothing but functions that answer Yes/No type of questions. By convention LISP predicate-names end in the letter **p** (stands for 'predicate'!)
