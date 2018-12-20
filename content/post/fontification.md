@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Font-ification! &#9786;"
+title:  "Font-ification! :heart:"
 date:   2014-12-14 20:20:10
 categories: general, font
 draft: false
@@ -35,7 +35,7 @@ For the web, we have some popular light-weight markup languages like the followi
 #### What about Mathematical Equations?
 
 As for specialized Mathematical typesetting on the web, we have [MathJax][link_mathjax] for bringing equations like [Albert Einstein][link_Einstein]'s
-\$ E=mc^{2} \$ or say, \$ ax^{2}+bx+c=0\$ to life!
+\\( E=mc^{2}\\) or say, \\(ax^{2}+bx+c=0\\) to life!
 
 ## Playing with fonts on github pages
 
@@ -59,7 +59,7 @@ Well, I wanted to have my blog rendered in a font of my choice.
 ### After...
     $base-font-family : Optima, Helvetica, Arial, sans-serif
 
-As you can see above, I added `Optima` to the mix.
+As you can see above, I added **Optima** to the mix.
 
 Optima has been one of my favourite fonts & I so badly wanted to try it.
 
