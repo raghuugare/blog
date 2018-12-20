@@ -4,7 +4,7 @@ layout: post
 title:  "LISP : consp or listp ?"
 date:   2014-12-19 17:25:10
 categories: LISP
-draft: true
+draft: false
 
 ---
 
@@ -74,7 +74,7 @@ class Node<T> {
 
 Note that the `data` field above is also a pointer/reference to some location in memory, just like `next` points to the 'next' node of the list. Thus a _cons-cell_ is essentially a pair of pointers used to represent lists in LISP. In a singly-linked-list the last node has `next` set to `null`.
 
-LISP uses this cons-cell concept to represent lists. For more information on cons-cells, you can refer to [this introductory article][link_cons_cell]{:target="_blank"}. Enjoy!
+LISP uses this cons-cell concept to represent lists. For more information on cons-cells, you can refer to [this introductory article][link_cons_cell]. Enjoy!
 
 ---
 
