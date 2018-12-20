@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Font-ification! :heart:"
+title:  Font-ification! :heart:
 date:   2014-12-14 20:20:10
 categories: general, font
 draft: false
