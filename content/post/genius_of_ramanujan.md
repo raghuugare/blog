@@ -9,7 +9,7 @@ draft: false
 
 ### A glimpse of the great Indian mathe-magician’s work...
 
-History has seldom seen a person who was so passionate, unorthodox, as well as gifted in a field, as was [Srinivasa Ramanujan][link_Ramanujan], the self-taught Indian genius, who made several startling discoveries in the realm of Mathematics.
+History has seldom seen a person who was so passionate, unorthodox, as well as gifted in a field as was [Srinivasa Ramanujan][link_Ramanujan], the self-taught Indian genius, who made several startling discoveries in the realm of Mathematics.
 
 Despite abject poverty and lack of formal training and encouragement, Ramanujan’s love for numbers never waned. And thanks to a chance encounter and ensuing collaboration with [G.H.Hardy][link_G_H_Hardy] of Cambridge, one of the most eminent mathematicians of the world, his hidden genius came to light.
 
