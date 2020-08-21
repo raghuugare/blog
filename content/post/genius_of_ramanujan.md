@@ -33,7 +33,7 @@ While in early high-school, the math teacher called up little Ramanujan and gave
 
 ##### **Fig. 1.** The simple-looking problem posed to young Ramanujan in school.
 
-The solution for this pair of equations is quite obvious \\( \Rightarrow (x = 9, y = 4) \\)  but is tricky to arrive at (**If you disagree, please go ahead; give it a try!**). And it is said that Ramanujan came up with the solution in a jiffy, showing early signs of his prodigious gifted.
+The solution for this pair of equations is quite obvious \\( \Rightarrow (x = 9, y = 4) \\)  but is tricky to arrive at (**If you disagree, please go ahead; give it a try!**). And it is said that Ramanujan came up with the solution in a jiffy, showing early signs of his prodigious gift.
 
 ---
 
