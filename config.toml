@@ -1,7 +1,7 @@
 baseURL = "https://raghuugare.github.io"
 languageCode = "en-us"
 title = "Biscuits in Tea...!"
-theme = "ananke"
+theme = "minimal"
 disqusShortname = "raghu-ugare-github"# delete this to disable disqus comments
 googleAnalytics = "UA-58142785-1"
 enableRobotsTXT = false
@@ -17,7 +17,8 @@ enableEmoji = true
     accent = "#ff0049" # "#009800"
     showBorder = true
     backgroundColor = "white"
-    font = "EB Garamond" # "Bitter" # "Fira Sans" # "Zilla Slab" # "Abel" # "Nunito" # "Fanwood Text" # "Cardo" # "Vollkorn" # "Alegreya" # "Aleo" # "Scope One" # should match the name on Google Fonts!
+    font = "Antic Slab" 
+    # "EB Garamond" # "Bitter" # "Fira Sans" # "Zilla Slab" # "Abel" # "Nunito" # "Fanwood Text" # "Cardo" # "Vollkorn" # "Alegreya" # "Aleo" # "Scope One" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     linenos="inline"
