@@ -17,8 +17,8 @@ enableEmoji = true
     accent = "#ff0049" # "#009800"
     showBorder = true
     backgroundColor = "white"
-    font = "Rokkitt"
-    # "Antic Slab" # "EB Garamond" # "Bitter" # "Fira Sans" # "Zilla Slab" # "Abel" # "Nunito" # "Fanwood Text" # "Cardo" # "Vollkorn" # "Alegreya" # "Aleo" # "Scope One" # should match the name on Google Fonts!
+    font = "Sorts Mill Goudy" 
+    # "Rokkitt" # "Antic Slab" # "EB Garamond" # "Bitter" # "Fira Sans" # "Zilla Slab" # "Abel" # "Nunito" # "Fanwood Text" # "Cardo" # "Vollkorn" # "Alegreya" # "Aleo" # "Scope One" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     linenos="inline"
