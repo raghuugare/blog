@@ -3,7 +3,7 @@ layout: post
 title:  "A small point about Fixed Point..."
 date:   2015-09-17 12:21:21
 categories: programming
-draft: true
+draft: false
 
 ---
 
